@@ -1,7 +1,7 @@
 ## Lab 1 Assignment:
 ### Researching and Reporting on Database Tools
-#### Name:
-#### Date:
+#### Name: Batmunkh Munkhjargal
+#### Date: September 4th, 2020
 
 ### Article 1
  -  Article name.
@@ -51,3 +51,4 @@
 
 
 #### Did you remember to add your name to this document?
+Yes
